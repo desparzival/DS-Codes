@@ -1,0 +1,6 @@
+1. install Microsoft MPI v10.0 from net
+
+2. pip install mpi4y
+
+3. mpiexec -np 3 python sum.py
+
